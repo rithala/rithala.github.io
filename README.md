@@ -11,3 +11,7 @@ I am a Solution Architect at Sii's Office 365 Competency Center. I help customer
 
 [![LinkedIn Profile](https://raw.githubusercontent.com/rithala/rithala/master/assets/linkedin.svg)](https://www.linkedin.com/in/rithaler/) | [![GitHub Gists](https://raw.githubusercontent.com/rithala/rithala/master/assets/gist.svg)](https://gist.github.com/rithala)
 -|-
+
+## Blog posts
+
+[I'm working on it](https://media.giphy.com/media/ge2KMqIJnwpQst3IrX/giphy.gif)
