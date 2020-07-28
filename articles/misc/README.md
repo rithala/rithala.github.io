@@ -1,8 +1,7 @@
-# 🍕 Pizza & life (or pizza is life 😉)
-
 [🏠 Home Page](https://github.com/rithala) | [📰 All Articles](../README.md)
+-|-
 
-## Articles
+# 🍕 Pizza & life (or pizza is life 😉)
 
 📰 Title | 📅 Posted
 -|-
