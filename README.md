@@ -4,7 +4,7 @@ I am a Solution Architect at Sii's Office 365 Competency Center. I help customer
 
 ### I like to use and talk about
 
-⚡ Azure | 🏢 Microsoft 365 | 🚀 ASP.NET Core | 🔨 C# | 🔧 TypeScript/JavaScript | 🔦 PowerShell | 🍕🍝 Pizza & pasta!!!
+⚡ Azure | 🏢 Microsoft 365 | 🚀 ASP.NET Core | 🔨 C# | 🔧 TypeScript/JavaScript | 🔦 PowerShell | 🍕 Pizza!!
 -|-|-|-|-|-|-
 
 ### Links
