@@ -14,4 +14,4 @@ I am a Solution Architect at Sii's Office 365 Competency Center. I help customer
 
 ## Blog posts
 
-[I'm working on it](https://media.giphy.com/media/ge2KMqIJnwpQst3IrX/giphy.gif)
+<img alt="I'm working on it" src="https://github.com/rithala/rithala/raw/master/assets/inprogress.gif"/>
