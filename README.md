@@ -4,7 +4,7 @@ I am a Solution Architect at Sii's Office 365 Competency Center. I help customer
 
 ### I like to use and talk about
 
-⚡ Azure | 🏢 Microsoft 365 | 🚀 ASP.NET Core | 🔨 C# | 🔧 TypeScript/JavaScript | 🔦 PowerShell | 🍕 Pizza!!
+[⚡ Azure](https://github.com/rithala/rithala/articles/azure) | [🏢 Microsoft 365](https://github.com/rithala/rithala/articles/microsoft365) | [🚀 ASP.NET Core](https://github.com/rithala/rithala/articles/aspnetcore) | [🔨 C#](https://github.com/rithala/rithala/articles/csharp) | [🔧 TypeScript/JavaScript](https://github.com/rithala/rithala/articles/typescript) | [🔦 PowerShell](https://github.com/rithala/rithala/articles/powershell) | [🍕 Pizza!!](https://github.com/rithala/rithala/articles/misc)
 -|-|-|-|-|-|-
 
 ### Links
