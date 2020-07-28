@@ -1,4 +1,4 @@
-[🏠 Home Page](https://github.com/rithala) | [📰 All Articles](../README.md)
+[🏠 Home Page](https://github.com/rithala) | [📰 All Articles](../)
 -|-
 
 # 🍕 Pizza & life (or pizza is life 😉)

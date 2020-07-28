@@ -1,4 +1,4 @@
-[🏠 Home Page](https://github.com/rithala) | [🍕 Pizza & life](../README.md)
+[🏠 Home Page](https://github.com/rithala) | [🍕 Pizza & life](../)
 -|-
 
 # Create Your GitHub Profile README
