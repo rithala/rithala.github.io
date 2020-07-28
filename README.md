@@ -1,4 +1,4 @@
-## Hello stranger! :wave:
+## Hello stranger! 👋
 
 I am a Solution Architect at Sii's Office 365 Competency Center. I help customers in implementing custom Microsoft 365 solutions frequently backed up with Azure services and custom-developed web services.
 
@@ -14,4 +14,11 @@ I am a Solution Architect at Sii's Office 365 Competency Center. I help customer
 
 ## Blog posts
 
-<img alt="I'm working on it" src="https://github.com/rithala/rithala/raw/master/assets/inprogress.gif"/>
+
+
+<img alt="Create Your GitHub Profile README" src="https://github.com/rithala/rithala/raw/master/articles/misc/github-profile-readme/poster.png"/>
+
+### [Create Your GitHub Profile README](https://github.com/rithala/rithala/tree/master/articles/misc/github-profile-readme)
+📅 2020-07-29
+
+---
