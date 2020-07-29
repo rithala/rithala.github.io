@@ -7,11 +7,6 @@ I am a Solution Architect at Sii's Office 365 Competency Center. I help customer
 [⚡ Azure](https://github.com/rithala/rithala/tree/master/articles/azure) | [🏢 Microsoft 365](https://github.com/rithala/rithala/tree/master/articles/microsoft365) | [🚀 ASP.NET Core](https://github.com/rithala/rithala/tree/master/articles/aspnetcore) | [🔨 C#](https://github.com/rithala/rithala/tree/master/articles/csharp) | [🔧 TypeScript/JavaScript](https://github.com/rithala/rithala/tree/master/articles/typescript) | [🔦 PowerShell](https://github.com/rithala/rithala/tree/master/articles/powershell) | [🍕 Pizza!!](https://github.com/rithala/rithala/tree/master/articles/misc)
 -|-|-|-|-|-|-
 
-### Links
-
-[![LinkedIn Profile](https://raw.githubusercontent.com/rithala/rithala/master/assets/linkedin.svg)](https://www.linkedin.com/in/rithaler/) | [![GitHub Gists](https://raw.githubusercontent.com/rithala/rithala/master/assets/gist.svg)](https://gist.github.com/rithala)
--|-
-
 ## Blog posts
 
 
@@ -22,3 +17,8 @@ I am a Solution Architect at Sii's Office 365 Competency Center. I help customer
 📅 2020-07-29
 
 ---
+
+### Links
+
+[![LinkedIn Profile](https://raw.githubusercontent.com/rithala/rithala/master/assets/linkedin.svg)](https://www.linkedin.com/in/rithaler/) | [![GitHub Gists](https://raw.githubusercontent.com/rithala/rithala/master/assets/gist.svg)](https://gist.github.com/rithala)
+-|-
