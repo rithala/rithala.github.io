@@ -33,4 +33,6 @@ This is just a proof of concept, that is why all the content is created manually
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [GitHub Emojis](https://gist.github.com/rxaviers/7360908)
 
+## [✉️ Comments section](https://github.com/rithala/rithala/issues/1)
+
 
