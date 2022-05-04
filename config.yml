@@ -58,28 +58,18 @@ params:
 
   label:
     text: "Kamil Rithaler"
-    # icon: /apple-touch-icon.png
-    # iconHeight: 35
-
-  # profile-mode
-  profileMode:
-    enabled: true # needs to be explicitly set
-    title: "Hi there \U0001F44B"
-    subtitle: "I am a Solution Architect at Sii's Microsoft 365 Competency Center. I help customers in implementing custom Microsoft 365 solutions frequently backed up with Azure services and custom-developed web services."
-    imageUrl: "images/me.png"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+    icon: /apple-touch-icon.png
+    iconHeight: 35
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B welcome to my blog!"
-    Content: "I am a Solution Architect at Sii's Microsoft 365 Competency Center. I help customers in implementing custom Microsoft 365 solutions frequently backed up with Azure services and custom-developed web services."
+    Title: "Hi there \U0001F44B"
+    Content: >
+      I am a Solution Architect at Sii's Microsoft 365 Competency Center.
+      I help customers in implementing custom Microsoft 365 solutions frequently backed up with Azure services and custom-developed web services.
+      I want to share with you my thoughts and challenges in technologies that I play around with. 
+
+
   socialIcons:
     - name: linkedin
       url: "https://www.linkedin.com/in/rithaler/"
