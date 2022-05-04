@@ -75,6 +75,8 @@ params:
       url: "https://www.linkedin.com/in/rithaler/"
     - name: github
       url: "https://github.com/rithala"
+    - name: "rss"
+      url: "https://rithala.github.io/index.xml"
 
   analytics:
     google:
