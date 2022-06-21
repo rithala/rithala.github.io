@@ -4,8 +4,8 @@ date: 2022-04-27T14:33:33+02:00
 draft: false
 cover:
     image: "cover.png"
-    alt: "Chrome Extension Screenshot"
-    caption: "Chrome Extension Screenshot"
+    alt: "How to aggregate SharePoint list items in Power Automate"
+    caption: "How to aggregate SharePoint list items in Power Automate"
 images:
 - "cover.png"
 tags: ["Power Platform", "Power Automate"]
