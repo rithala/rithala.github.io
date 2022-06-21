@@ -12,6 +12,16 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Apr 2022 14:33:33 +0200</lastBuildDate><atom:link href="https://rithala.github.io/tags/power-platform/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>How to aggregate (SUM, AVG, COUNT etc.) SharePoint list items&#39; data efficient in Power Automate</title>
+      <link>https://rithala.github.io/posts/sharepoint-list-items-aggregations-in-power-automate/</link>
+      <pubDate>Wed, 27 Apr 2022 14:33:33 +0200</pubDate>
+      
+      <guid>https://rithala.github.io/posts/sharepoint-list-items-aggregations-in-power-automate/</guid>
+      <description>Let&amp;rsquo;s assume you need to summarize the sales data per salesman and prepare a monthly report that will be sent to the manager.
+How can you do this in Power Automate? The first thing that may come to your mind is to use SharePoint&amp;rsquo;s &amp;ldquo;Get Items&amp;rdquo; action to get all list items for the desired time frame and then calculate the sums yourself in the &amp;ldquo;Apply to each&amp;rdquo; loop. It may work for a small list but it will fail when we get to a larger number of items.</description>
+    </item>
+    
+    <item>
       <title>Power Automate Chrome Extension</title>
       <link>https://rithala.github.io/posts/power-automate-chrome-extension/</link>
       <pubDate>Wed, 27 Apr 2022 14:33:33 +0200</pubDate>
