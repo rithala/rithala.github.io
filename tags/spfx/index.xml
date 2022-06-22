@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SPFx on Kamil Rithaler</title>
+    <link>https://rithala.github.io/tags/spfx/</link>
+    <description>Recent content in SPFx on Kamil Rithaler</description>
+    <image>
+      <url>https://rithala.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://rithala.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Jun 2022 14:33:33 +0200</lastBuildDate><atom:link href="https://rithala.github.io/tags/spfx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build and deploy SPFx form customizer</title>
+      <link>https://rithala.github.io/posts/build-and-deploy-spfx-form-customizer/</link>
+      <pubDate>Wed, 22 Jun 2022 14:33:33 +0200</pubDate>
+      
+      <guid>https://rithala.github.io/posts/build-and-deploy-spfx-form-customizer/</guid>
+      <description>Today Microsoft released the latest version of SPFx (v1.15). This version comes with the feature that I waited most for (and probably many SharePoint developers). This is a possibility to create a &amp;ldquo;native&amp;rdquo; list item custom form.
+Until this day, it was a very hacky process of making a custom webpart and redirecting users to it by using custom actions or list view JSON customizers. Now, this development model is fully supported by SPFx.</description>
+    </item>
+    
+  </channel>
+</rss>
