@@ -1,6 +1,6 @@
 ---
 title: "How to aggregate (SUM, AVG, COUNT etc.) SharePoint list items' data efficient in Power Automate"
-date: 2022-04-27T14:33:33+02:00
+date: 2022-06-22T14:33:33+02:00
 draft: false
 cover:
     image: "cover.png"
