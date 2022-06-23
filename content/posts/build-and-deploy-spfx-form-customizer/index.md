@@ -33,23 +33,23 @@ yo @microsoft/sharepoint
 
 Follow the instructions on the screen. The new customization type is available under `Extension -> Form Customizer`. In this example, I choose to create a React form.
 
-![Yeoman generator steps](images/yo3.png)
+![Yeoman generator steps](images/yo3.png#center)
 
 ### Created SPFx project
 
 Now the generator will create the project and install all dependencies. When it is done a standard SPFx project structure is created. You can find the customizer in the `src/extensions/{customizerName}` directory.
 
-![Project structure](images/project_structure.png)
+![Project structure](images/project_structure.png#center)
 
 Let's jump to the customizer component and see what we got here.
 
-![Form customizer component](images/component.png)
+![Form customizer component](images/component.png#center)
 
 It looks very similar to the web part component. There are `onInit` for initialization, `render` for rendering the form and `onDispose` for a clean-up. The new things are `displayMode` which indicates if it is the display, edit or the new mode, self-explanatory properties like `list`, `contentType` or `itemId`, and `formSaved()` with `formClosed()` to tell the SharePoint that we finished the job in our form.
 
 As I selected React as my framework, the React form component was created as well. By default, it is a pretty empty place.
 
-![React default form component](images/react_component.png)
+![React default form component](images/react_component.png#center)
 
 ### Creating a simple form
 
@@ -263,7 +263,7 @@ export default function MyFirstSpFxForm({
 
 The basic form is ready, and we are eager on testing it. Before trying out how the customizer works you need to change the `serve` configuration. To do this, edit the `config/serve.json` file and replace all occurrences of `https://contoso.sharepoint.com/sites/mySite` with the URL of your test site and `/sites/mySite/Lists/MyList` with the server relative URL of the test list that you are using. Your final config should be similar to this.
 
-![serve.json content](images/serve_config.png)
+![serve.json content](images/serve_config.png#center)
 
 Now you can run the project with
 
@@ -273,15 +273,15 @@ npx gulp serve
 
 The browser should open a development page asking for allowing debug scripts.
 
-![Allow debug scripts](images/allow_debug.png)
+![Allow debug scripts](images/allow_debug.png#center)
 
 After allowing debug scripts our form should be opened and ready to add a new item.
 
-![New item form](images/form_new.png)
+![New item form](images/form_new.png#center)
 
 Fill out the title field and click the save button. The form should be closed and a new item is added to the list. So, we got the first big milestone here! The form has created a list item.
 
-![Created list item](images/created_item.png)
+![Created list item](images/created_item.png#center)
 
 Let's check if the form works correctly in the "View" mode. Stop the running `serve` command and run the view form debugging.
 
@@ -289,7 +289,7 @@ Let's check if the form works correctly in the "View" mode. Stop the running `se
 npx gulp serve --config=myFirstSpFxForm_ViewForm
 ```
 
-![View form](images/view_form.png)
+![View form](images/view_form.png#center)
 
 Another successful test! So the last one left. You can try if you can edit an item. Again, stop the `serve` and run:
 
@@ -297,11 +297,11 @@ Another successful test! So the last one left. You can try if you can edit an it
 npx gulp serve --config=myFirstSpFxForm_EditForm
 ```
 
-![Edit form](images/edit_item.png)
+![Edit form](images/edit_item.png#center)
 
 The item loads, now try to edit it and save changes.
 
-![Edited list item](images/edited_item.png)
+![Edited list item](images/edited_item.png#center)
 
 It works! This is your first SPFx form customizer.
 
@@ -343,24 +343,24 @@ npx gulp bundle --ship && npx gulp package-solution --ship
 You can find the build package in the ```sharepoint/package-name.sppkg``` directory. Upload the package to a [tenant or site-scoped app catalog](https://docs.microsoft.com/en-us/sharepoint/use-app-catalog). 
 
 
-![App catalog](images/app_catalog.png)
+![App catalog](images/app_catalog.png#center)
 
 To make the customizer on a SharePoint site you need to add the app. On the home page click the "new" button and select "App".
 
-![Add app](images/add_app.png)
+![Add app](images/add_app.png#center)
 
 On the next page click the "Add" button next to the solution.
 
-![Selecting app](images/select_app.png)
+![Selecting app](images/select_app.png#center)
 
 When you will see the success alert, go to site settings and select the content-types option. Then create a new content type.
 
-![Site settings](images/site_settings.png)
-![New content type](images/new_content_type.png)
+![Site settings](images/site_settings.png#center)
+![New content type](images/new_content_type.png#center)
 
 After creating a content type, copy the content-type ID value from the confirmation page.
 
-![Created content type](images/created_content_type.png)
+![Created content type](images/created_content_type.png#center)
 
 Leave the browser for a moment, now it is time for some PowerShell. Connect to a SharePoint site.
 
@@ -384,18 +384,18 @@ Invoke-RestMethod -Method Patch -Uri "https://tenantname.sharepoint.com/sites/Si
 
 You can close the PowerShell window. Assign the newly created content type to a list. To do this go to ```List settings -> Advanced settings```. Change "Allow management of content types?" to "Yes" and save changes.
 
-![Allow management of content types](images/allow_content_types.png)
+![Allow management of content types](images/allow_content_types.png#center)
 
 Now "Content Types" section in the list settings is visible. Click the "Add from existing site content types" action. On the next page select the previously created content type and click "Ok".
 
-![Add a content type to a list](images/add_content_type.png)
+![Add a content type to a list](images/add_content_type.png#center)
 
 It is a good idea to hide the default content type. To do this click the "Change new button order and default content type" link and change the settings to the following.
 
-![List default content type settings](images/default_content_type.png)
+![List default content type settings](images/default_content_type.png#center)
 
 Now you can try it out by creating a new item. The freshly created form customizer should be your new list form 🥳
 
-![New item form](images/form_new.png)
+![New item form](images/form_new.png#center)
 
 The tooling at this stage is a little cumbersome. Nevertheless, today is the go-live day of this feature 👍

@@ -135,15 +135,15 @@ Now that you know the theory it is time to use it. What was the assumption that 
 
 So we start with a blank flow with a schedule trigger that runs every month.
 
-![Flow trigger](trigger.png)
+![Flow trigger](trigger.png#center)
 
 Next, create variables for a time frame.
 
-![Flow variables](variables.png)
+![Flow variables](variables.png#center)
 
 Now is the crucial part, you got to prepare the CAML query. The most convenient way is to use the ***Compose*** action. Make your job easier by using single quotes for attribute values. Then you do not need to escape it when sending it in a JSON body.
 
-![Compose CAML query](compose_caml.png)
+![Compose CAML query](compose_caml.png#center)
 
 It is time to send the request to the API. Use the "Send an HTTP request to SharePoint REST" action, set the method parameter to POST and use the described render list data as a stream method for a selected list.
 
@@ -151,7 +151,7 @@ You can add the ***Accept*** header with ```application/json;odata.metadata=none
 
 Also, when you use "renderListDataAsStream" is nice to add the ```DatesInUtc``` parameter. Then you are sure that the service account time zone setting does not affect your result.
 
-![HTTP request](http_request.png)
+![HTTP request](http_request.png#center)
 
 The last task on our list is to send the collected data as a mail report.
 
@@ -159,15 +159,15 @@ I recommend testing the flow at this stage and copying the JSON response. Then a
 
 To make the flow even faster use ***Select*** and ***Create HTML table*** operations instead of ***Apply to each*** to build the report content.
 
-![Handling the request's response](handling_response.png)
+![Handling the request's response](handling_response.png#center)
 
 Now just send the report as an email.
 
-![Email action](email.png)
+![Email action](email.png#center)
 
 That's it! What does the report look like? For sure we can play around with the HTML to make it look better, but should be enough for MVP 🙂
 
-![Mail report](mail_report.png)
+![Mail report](mail_report.png#center)
 
 
 
