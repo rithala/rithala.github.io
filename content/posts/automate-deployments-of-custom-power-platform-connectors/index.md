@@ -1,11 +1,11 @@
 ---
-title: 'Automate deployments of custom Power Platform connectors'
+title: 'Automate deployment of custom Power Platform connectors'
 date: 2022-07-04T22:00:00+02:00
 draft: false
 cover:
     image: "images/connector-automation-cover.png"
     alt: "Article cover"
-    caption: "Automate deployments of custom Power Platform connectors"
+    caption: "Automate deployment of custom Power Platform connectors"
 images:
 - "images/connector-automation-cover.png"
 tags: ['Power Platform', 'Power Automate', 'DevOps']
