@@ -10,7 +10,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jun 2022 14:33:33 +0200</lastBuildDate><atom:link href="https://rithala.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jul 2022 22:00:00 +0200</lastBuildDate><atom:link href="https://rithala.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DevOps</title>
+      <link>https://rithala.github.io/tags/devops/</link>
+      <pubDate>Mon, 04 Jul 2022 22:00:00 +0200</pubDate>
+      
+      <guid>https://rithala.github.io/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Automate</title>
+      <link>https://rithala.github.io/tags/power-automate/</link>
+      <pubDate>Mon, 04 Jul 2022 22:00:00 +0200</pubDate>
+      
+      <guid>https://rithala.github.io/tags/power-automate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Platform</title>
+      <link>https://rithala.github.io/tags/power-platform/</link>
+      <pubDate>Mon, 04 Jul 2022 22:00:00 +0200</pubDate>
+      
+      <guid>https://rithala.github.io/tags/power-platform/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>SharePoint</title>
       <link>https://rithala.github.io/tags/sharepoint/</link>
@@ -35,24 +62,6 @@
       <pubDate>Wed, 22 Jun 2022 14:33:33 +0200</pubDate>
       
       <guid>https://rithala.github.io/tags/typescript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power Automate</title>
-      <link>https://rithala.github.io/tags/power-automate/</link>
-      <pubDate>Tue, 21 Jun 2022 14:33:33 +0200</pubDate>
-      
-      <guid>https://rithala.github.io/tags/power-automate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power Platform</title>
-      <link>https://rithala.github.io/tags/power-platform/</link>
-      <pubDate>Tue, 21 Jun 2022 14:33:33 +0200</pubDate>
-      
-      <guid>https://rithala.github.io/tags/power-platform/</guid>
       <description></description>
     </item>
     

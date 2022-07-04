@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jun 2022 14:33:33 +0200</lastBuildDate><atom:link href="https://rithala.github.io/tags/power-automate/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jul 2022 22:00:00 +0200</lastBuildDate><atom:link href="https://rithala.github.io/tags/power-automate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automate deployments of custom Power Platform connectors</title>
+      <link>https://rithala.github.io/posts/automate-deployments-of-custom-power-platform-connectors/</link>
+      <pubDate>Mon, 04 Jul 2022 22:00:00 +0200</pubDate>
+      
+      <guid>https://rithala.github.io/posts/automate-deployments-of-custom-power-platform-connectors/</guid>
+      <description>Power Platform custom connectors enable using your API in Power Apps or Power Automate flows. When the API which you plan to integrate with your app is a stable and finished product, then creating a custom connector is a one-time task to do. However, when the API is a part of a developed solution or is under active development then keeping the connector in sync with the API is a cumbersome task.</description>
+    </item>
+    
     <item>
       <title>How to aggregate (SUM, AVG, COUNT etc.) SharePoint list items&#39; data efficient in Power Automate</title>
       <link>https://rithala.github.io/posts/sharepoint-list-items-aggregations-in-power-automate/</link>

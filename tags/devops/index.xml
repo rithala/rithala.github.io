@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DevOps on Kamil Rithaler</title>
+    <link>https://rithala.github.io/tags/devops/</link>
+    <description>Recent content in DevOps on Kamil Rithaler</description>
+    <image>
+      <url>https://rithala.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://rithala.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Jul 2022 22:00:00 +0200</lastBuildDate><atom:link href="https://rithala.github.io/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automate deployments of custom Power Platform connectors</title>
+      <link>https://rithala.github.io/posts/automate-deployments-of-custom-power-platform-connectors/</link>
+      <pubDate>Mon, 04 Jul 2022 22:00:00 +0200</pubDate>
+      
+      <guid>https://rithala.github.io/posts/automate-deployments-of-custom-power-platform-connectors/</guid>
+      <description>Power Platform custom connectors enable using your API in Power Apps or Power Automate flows. When the API which you plan to integrate with your app is a stable and finished product, then creating a custom connector is a one-time task to do. However, when the API is a part of a developed solution or is under active development then keeping the connector in sync with the API is a cumbersome task.</description>
+    </item>
+    
+  </channel>
+</rss>
