@@ -16,4 +16,5 @@ I bet every PowerAutomate consultant wonders if there is an easy way to replace 
 [Link to GitHub](https://github.com/rithala/power-automate-tools)
 
 [Link to the Chrome Web Store](https://chrome.google.com/webstore/detail/power-automate-tools/jccblbmcghkddifenlocnjfmeemjeacc)
+[Link to the Edge Add-ons listing](https://microsoftedge.microsoft.com/addons/detail/power-automate-tools/ecdclfoojhebjoknjoooljcakfbfpjoj)
 
