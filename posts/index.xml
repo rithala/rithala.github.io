@@ -10,7 +10,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jul 2022 22:00:00 +0200</lastBuildDate><atom:link href="https://rithala.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Jul 2022 09:30:33 +0200</lastBuildDate><atom:link href="https://rithala.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Power Automate Tools Version</title>
+      <link>https://rithala.github.io/posts/new-power-automate-tools-version/</link>
+      <pubDate>Mon, 11 Jul 2022 09:30:33 +0200</pubDate>
+      
+      <guid>https://rithala.github.io/posts/new-power-automate-tools-version/</guid>
+      <description>Microsoft announced the change of the web address of the Power Automate portal from https://flow.microsoft.com to https://make.powerautomate.com.
+The latest version of the Power Automate Tools extension introduced support for opening the JSON editor from the new Power Automate portal and Power Apps portal as well.
+You can learn more about the extension on it&amp;rsquo;s GitHub page, Chrome Web Store or on the Edge Add-ons listing.</description>
+    </item>
+    
     <item>
       <title>Automate Power Platform custom connectors deployment</title>
       <link>https://rithala.github.io/posts/automate-deployments-of-custom-power-platform-connectors/</link>
@@ -48,7 +59,7 @@ How can you do this in Power Automate? The first thing that may come to your min
       <guid>https://rithala.github.io/posts/power-automate-chrome-extension/</guid>
       <description>I bet every PowerAutomate consultant wonders if there is an easy way to replace all SharePoint site URLs or variables names in a flow definition 🤔 I could not find the answer, so I built this small (my first😊) Chrome/Edge extension allowing editing a flow as JSON in a web version of VS Code. Please, share this with your colleagues and feedback is much appreciated 😉
 Link to GitHub
-Link to the Chrome Web Store</description>
+Link to the Chrome Web Store Link to the Edge Add-ons listing</description>
     </item>
     
   </channel>
