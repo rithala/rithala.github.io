@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>TypeScript on Kamil Rithaler</title>
-    <link>https://rithala.github.io/tags/typescript/</link>
-    <description>Recent content in TypeScript on Kamil Rithaler</description>
+    <title>Node.js on Kamil Rithaler</title>
+    <link>https://rithala.github.io/tags/node.js/</link>
+    <description>Recent content in Node.js on Kamil Rithaler</description>
     <image>
       <url>https://rithala.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://rithala.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Jul 2022 09:30:33 +0200</lastBuildDate><atom:link href="https://rithala.github.io/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Jul 2022 09:30:33 +0200</lastBuildDate><atom:link href="https://rithala.github.io/tags/node.js/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Generate Azure Function GraphQL API From Database</title>
       <link>https://rithala.github.io/posts/generate-azure-function-graphql-api-from-database/</link>
@@ -18,16 +18,6 @@
       
       <guid>https://rithala.github.io/posts/generate-azure-function-graphql-api-from-database/</guid>
       <description>I remember when I first used a GraphQL API in a React SPA. It was a totally different experience from the one I was used to. The flexibility and ease of API discovery with GraphiQL blew my mind. I was using and creating ODATA APIs by then and my first thought was these must be pretty much the same. In fact, the concept is similar. Give front-end developers an API that will allow them to make requests as they want, and get only the data that they want.</description>
-    </item>
-    
-    <item>
-      <title>Build and deploy SPFx form customizer</title>
-      <link>https://rithala.github.io/posts/build-and-deploy-spfx-form-customizer/</link>
-      <pubDate>Wed, 22 Jun 2022 14:33:33 +0200</pubDate>
-      
-      <guid>https://rithala.github.io/posts/build-and-deploy-spfx-form-customizer/</guid>
-      <description>Today Microsoft released the latest version of SPFx (v1.15). This version comes with the feature that I waited most for (and probably many SharePoint developers). This is a possibility to create a &amp;ldquo;native&amp;rdquo; list item custom form.
-Until this day, it was a very hacky process of making a custom webpart and redirecting users to it by using custom actions or list view JSON customizers. Now, this development model is fully supported by SPFx.</description>
     </item>
     
   </channel>

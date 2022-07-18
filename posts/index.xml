@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Jul 2022 09:30:33 +0200</lastBuildDate><atom:link href="https://rithala.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Jul 2022 09:30:33 +0200</lastBuildDate><atom:link href="https://rithala.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Generate Azure Function GraphQL API From Database</title>
+      <link>https://rithala.github.io/posts/generate-azure-function-graphql-api-from-database/</link>
+      <pubDate>Mon, 18 Jul 2022 09:30:33 +0200</pubDate>
+      
+      <guid>https://rithala.github.io/posts/generate-azure-function-graphql-api-from-database/</guid>
+      <description>I remember when I first used a GraphQL API in a React SPA. It was a totally different experience from the one I was used to. The flexibility and ease of API discovery with GraphiQL blew my mind. I was using and creating ODATA APIs by then and my first thought was these must be pretty much the same. In fact, the concept is similar. Give front-end developers an API that will allow them to make requests as they want, and get only the data that they want.</description>
+    </item>
+    
     <item>
       <title>New Power Automate Tools Version</title>
       <link>https://rithala.github.io/posts/new-power-automate-tools-version/</link>

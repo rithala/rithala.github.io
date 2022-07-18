@@ -2,22 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rithala.github.io/</loc>
-    <lastmod>2022-07-11T09:30:33+02:00</lastmod>
+    <loc>https://rithala.github.io/tags/azure/</loc>
+    <lastmod>2022-07-18T09:30:33+02:00</lastmod>
   </url><url>
-    <loc>https://rithala.github.io/posts/new-power-automate-tools-version/</loc>
-    <lastmod>2022-07-11T09:30:33+02:00</lastmod>
+    <loc>https://rithala.github.io/tags/azure-function/</loc>
+    <lastmod>2022-07-18T09:30:33+02:00</lastmod>
+  </url><url>
+    <loc>https://rithala.github.io/posts/generate-azure-function-graphql-api-from-database/</loc>
+    <lastmod>2022-07-18T09:30:33+02:00</lastmod>
+  </url><url>
+    <loc>https://rithala.github.io/tags/javascript/</loc>
+    <lastmod>2022-07-18T09:30:33+02:00</lastmod>
+  </url><url>
+    <loc>https://rithala.github.io/</loc>
+    <lastmod>2022-07-18T09:30:33+02:00</lastmod>
+  </url><url>
+    <loc>https://rithala.github.io/tags/node.js/</loc>
+    <lastmod>2022-07-18T09:30:33+02:00</lastmod>
   </url><url>
     <loc>https://rithala.github.io/posts/</loc>
+    <lastmod>2022-07-18T09:30:33+02:00</lastmod>
+  </url><url>
+    <loc>https://rithala.github.io/tags/</loc>
+    <lastmod>2022-07-18T09:30:33+02:00</lastmod>
+  </url><url>
+    <loc>https://rithala.github.io/tags/typescript/</loc>
+    <lastmod>2022-07-18T09:30:33+02:00</lastmod>
+  </url><url>
+    <loc>https://rithala.github.io/posts/new-power-automate-tools-version/</loc>
     <lastmod>2022-07-11T09:30:33+02:00</lastmod>
   </url><url>
     <loc>https://rithala.github.io/tags/power-automate/</loc>
     <lastmod>2022-07-11T09:30:33+02:00</lastmod>
   </url><url>
     <loc>https://rithala.github.io/tags/power-platform/</loc>
-    <lastmod>2022-07-11T09:30:33+02:00</lastmod>
-  </url><url>
-    <loc>https://rithala.github.io/tags/</loc>
     <lastmod>2022-07-11T09:30:33+02:00</lastmod>
   </url><url>
     <loc>https://rithala.github.io/posts/automate-deployments-of-custom-power-platform-connectors/</loc>
@@ -33,9 +51,6 @@
     <lastmod>2022-06-22T14:33:33+02:00</lastmod>
   </url><url>
     <loc>https://rithala.github.io/tags/spfx/</loc>
-    <lastmod>2022-06-22T14:33:33+02:00</lastmod>
-  </url><url>
-    <loc>https://rithala.github.io/tags/typescript/</loc>
     <lastmod>2022-06-22T14:33:33+02:00</lastmod>
   </url><url>
     <loc>https://rithala.github.io/posts/sharepoint-list-items-aggregations-in-power-automate/</loc>
