@@ -10,7 +10,7 @@ images:
 tags: ['Azure', 'Azure Function', '.NET', 'C#']
 ---
 
-> ETL - Extract,Transform, and Load. One of the most important processes in Bussiness Intelligence allowing integrate data from different sources into central repository.
+> ETL - Extract,Transform, and Load. One of the most important processes in the Bussiness Intelligence allowing integrate data from different sources into central repository.
 
 In Microsoft world when you think of ETLs or moving data around, the first thing that comes to your mind is SSIS (SQL Server Integration Services) or Azure Data Factory, it depends if you are cloud first or not :)
 
@@ -28,8 +28,8 @@ It is called [ETL.NET](https://paillave.github.io/Etl.Net/) written by Stéphane
 
 ## Serverless ETL
 
-I am in love with Azure Functions. This simple, event-based programming model usually ticks all the boxes when developing modern apps. You can create a function triggered by a file uploaded to an Azure Blob Storage container, scheduled timer, or on demand with HTTP request. Especially, the first one looks interesting in terms of a data integration.
+I am in love with Azure Functions. This simple, event-based programming model usually ticks all the boxes when developing modern apps. You can create a function triggered by a file uploaded to an Azure Blob Storage container, scheduled timer, or on demand with HTTP request. Especially, the first one looks promising in terms of a data integration.
 
-The one think that you need to take into consideration is processing time. When you will need to process a big number of rows you might be caught by a timetout. So that you should carefully choose a [hosting option](https://docs.microsoft.com/en-us/azure/azure-functions/functions-scale#timeout) and set the ```functionTimeout``` setting in ```host.json``` file.
+The one thing that you need to take into consideration is a processing time. When you will need to process a big number of rows you might be caught by a timetout. So that you should carefully choose a [hosting option](https://docs.microsoft.com/en-us/azure/azure-functions/functions-scale#timeout) and set the ```functionTimeout``` setting in ```host.json``` file.
 
 ## Creating ETL Function
