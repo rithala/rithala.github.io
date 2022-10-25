@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rithala.github.io/posts/generate-typescript-api-client-and-used-in-spfx-project/</loc>
+    <lastmod>2022-10-25T02:00:33+02:00</lastmod>
+  </url><url>
+    <loc>https://rithala.github.io/</loc>
+    <lastmod>2022-10-25T02:00:33+02:00</lastmod>
+  </url><url>
+    <loc>https://rithala.github.io/posts/</loc>
+    <lastmod>2022-10-25T02:00:33+02:00</lastmod>
+  </url><url>
+    <loc>https://rithala.github.io/tags/spfx/</loc>
+    <lastmod>2022-10-25T02:00:33+02:00</lastmod>
+  </url><url>
+    <loc>https://rithala.github.io/tags/</loc>
+    <lastmod>2022-10-25T02:00:33+02:00</lastmod>
+  </url><url>
+    <loc>https://rithala.github.io/tags/typescript/</loc>
+    <lastmod>2022-10-25T02:00:33+02:00</lastmod>
+  </url><url>
     <loc>https://rithala.github.io/tags/azure/</loc>
     <lastmod>2022-07-18T09:30:33+02:00</lastmod>
   </url><url>
@@ -14,19 +32,7 @@
     <loc>https://rithala.github.io/tags/javascript/</loc>
     <lastmod>2022-07-18T09:30:33+02:00</lastmod>
   </url><url>
-    <loc>https://rithala.github.io/</loc>
-    <lastmod>2022-07-18T09:30:33+02:00</lastmod>
-  </url><url>
     <loc>https://rithala.github.io/tags/node.js/</loc>
-    <lastmod>2022-07-18T09:30:33+02:00</lastmod>
-  </url><url>
-    <loc>https://rithala.github.io/posts/</loc>
-    <lastmod>2022-07-18T09:30:33+02:00</lastmod>
-  </url><url>
-    <loc>https://rithala.github.io/tags/</loc>
-    <lastmod>2022-07-18T09:30:33+02:00</lastmod>
-  </url><url>
-    <loc>https://rithala.github.io/tags/typescript/</loc>
     <lastmod>2022-07-18T09:30:33+02:00</lastmod>
   </url><url>
     <loc>https://rithala.github.io/posts/new-power-automate-tools-version/</loc>
@@ -48,9 +54,6 @@
     <lastmod>2022-06-22T14:33:33+02:00</lastmod>
   </url><url>
     <loc>https://rithala.github.io/tags/sharepoint/</loc>
-    <lastmod>2022-06-22T14:33:33+02:00</lastmod>
-  </url><url>
-    <loc>https://rithala.github.io/tags/spfx/</loc>
     <lastmod>2022-06-22T14:33:33+02:00</lastmod>
   </url><url>
     <loc>https://rithala.github.io/posts/sharepoint-list-items-aggregations-in-power-automate/</loc>

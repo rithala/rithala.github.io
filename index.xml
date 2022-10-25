@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Jul 2022 09:30:33 +0200</lastBuildDate><atom:link href="https://rithala.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Oct 2022 02:00:33 +0200</lastBuildDate><atom:link href="https://rithala.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Generate the TypeScript API Client and Use It in an SPFx Project</title>
+      <link>https://rithala.github.io/posts/generate-typescript-api-client-and-used-in-spfx-project/</link>
+      <pubDate>Tue, 25 Oct 2022 02:00:33 +0200</pubDate>
+      
+      <guid>https://rithala.github.io/posts/generate-typescript-api-client-and-used-in-spfx-project/</guid>
+      <description>This is another post about generating an API client. Creating API clients is one of those tasks that should be automated as much as possible. In most cases, you just write the same code over and over by replicating the API schema. Previously, I was talking about generating Power Platform custom connectors based on an Open API definition. This time let&amp;rsquo;s talk about doing it in TypeScript and using it in an SPFx project.</description>
+    </item>
+    
     <item>
       <title>Generate Azure Function GraphQL API From Database</title>
       <link>https://rithala.github.io/posts/generate-azure-function-graphql-api-from-database/</link>
