@@ -24,9 +24,9 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: "Kamil Rithaler BLOG"
-  description: "My blog about web apps development, Azure, Microsoft 365 and Power Platofrm"
-  keywords: [Blog, Portfolio, Azure, Microsoft365, PowerPlatform]
+  title: "Kamil Rithaler"
+  description: "Kamil Rithaler's blog about web apps development, Azure, Microsoft 365 and Power Platofrm"
+  keywords: [Kamil Rithaler, .NET, dotnet, Azure, Microsoft365, PowerPlatform]
   author: "Kamil Rithaler"
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
