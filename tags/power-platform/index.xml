@@ -11,7 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Jul 2022 09:30:33 +0200</lastBuildDate><atom:link href="https://rithala.github.io/tags/power-platform/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Apr 2024 12:15:33 +0200</lastBuildDate><atom:link href="https://rithala.github.io/tags/power-platform/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Power Automate Tools Version 1.2</title>
+      <link>https://rithala.github.io/posts/power-automate-tools-version-v-1-2/</link>
+      <pubDate>Mon, 29 Apr 2024 12:15:33 +0200</pubDate>
+      
+      <guid>https://rithala.github.io/posts/power-automate-tools-version-v-1-2/</guid>
+      <description>After almost two years, I am happy to announce the new version of Power Automate Tools. It introduces important fixes and editing of connection references, which allows easy flow copying.
+v1.2 Fixed the issue of saving a flow Support for launching from the new Power Automate designer Improved launching from the Power Apps Portal Now the editor allows to edit the flow definition and connection references Roadmap I am planning to implement the following features in the upcoming months:</description>
+    </item>
+    
     <item>
       <title>New Power Automate Tools Version</title>
       <link>https://rithala.github.io/posts/new-power-automate-tools-version/</link>
