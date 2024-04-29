@@ -9,88 +9,72 @@
       <url>https://rithala.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://rithala.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.125.4</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Apr 2024 12:15:33 +0200</lastBuildDate><atom:link href="https://rithala.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Apr 2024 12:15:33 +0200</lastBuildDate>
+    <atom:link href="https://rithala.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Power Automate Tools Version 1.2</title>
       <link>https://rithala.github.io/posts/power-automate-tools-version-v-1-2/</link>
       <pubDate>Mon, 29 Apr 2024 12:15:33 +0200</pubDate>
-      
       <guid>https://rithala.github.io/posts/power-automate-tools-version-v-1-2/</guid>
       <description>After almost two years, I am happy to announce the new version of Power Automate Tools. It introduces important fixes and editing of connection references, which allows easy flow copying.
 v1.2 Fixed the issue of saving a flow Support for launching from the new Power Automate designer Improved launching from the Power Apps Portal Now the editor allows to edit the flow definition and connection references Roadmap I am planning to implement the following features in the upcoming months:</description>
     </item>
-    
     <item>
       <title>How To Generate the TypeScript API Client and Use It in an SPFx Project</title>
       <link>https://rithala.github.io/posts/generate-typescript-api-client-and-use-it-in-spfx-project/</link>
       <pubDate>Tue, 25 Oct 2022 02:00:33 +0200</pubDate>
-      
       <guid>https://rithala.github.io/posts/generate-typescript-api-client-and-use-it-in-spfx-project/</guid>
       <description>This is another post about generating an API client. Creating API clients is one of those tasks that should be automated as much as possible. In most cases, you just write the same code over and over by replicating the API schema. Previously, I was talking about generating Power Platform custom connectors based on an Open API definition. This time let&amp;rsquo;s talk about doing it in TypeScript and using it in an SPFx project.</description>
     </item>
-    
     <item>
       <title>Generate Azure Function GraphQL API From Database</title>
       <link>https://rithala.github.io/posts/generate-azure-function-graphql-api-from-database/</link>
       <pubDate>Mon, 18 Jul 2022 09:30:33 +0200</pubDate>
-      
       <guid>https://rithala.github.io/posts/generate-azure-function-graphql-api-from-database/</guid>
       <description>I remember when I first used a GraphQL API in a React SPA. It was a totally different experience from the one I was used to. The flexibility and ease of API discovery with GraphiQL blew my mind. I was using and creating ODATA APIs by then and my first thought was these must be pretty much the same. In fact, the concept is similar. Give front-end developers an API that will allow them to make requests as they want, and get only the data that they want.</description>
     </item>
-    
     <item>
       <title>New Power Automate Tools Version</title>
       <link>https://rithala.github.io/posts/new-power-automate-tools-version/</link>
       <pubDate>Mon, 11 Jul 2022 09:30:33 +0200</pubDate>
-      
       <guid>https://rithala.github.io/posts/new-power-automate-tools-version/</guid>
       <description>Microsoft announced the change of the web address of the Power Automate portal from https://flow.microsoft.com to https://make.powerautomate.com.
 The latest version of the Power Automate Tools extension introduced support for opening the JSON editor from the new Power Automate portal and Power Apps portal as well.
 You can learn more about the extension on it&amp;rsquo;s GitHub page, Chrome Web Store or on the Edge Add-ons listing.</description>
     </item>
-    
     <item>
       <title>Automate Power Platform custom connectors deployment</title>
       <link>https://rithala.github.io/posts/automate-deployments-of-custom-power-platform-connectors/</link>
       <pubDate>Mon, 04 Jul 2022 22:00:00 +0200</pubDate>
-      
       <guid>https://rithala.github.io/posts/automate-deployments-of-custom-power-platform-connectors/</guid>
       <description>Power Platform custom connectors enable using your API in Power Apps or Power Automate flows. When the API which you plan to integrate with your app is a stable and finished product, then creating a custom connector is a one-time task to do. However, when the API is a part of a developed solution or is under active development then keeping the connector in sync with the API is a cumbersome task.</description>
     </item>
-    
     <item>
       <title>Build and deploy SPFx form customizer</title>
       <link>https://rithala.github.io/posts/build-and-deploy-spfx-form-customizer/</link>
       <pubDate>Wed, 22 Jun 2022 14:33:33 +0200</pubDate>
-      
       <guid>https://rithala.github.io/posts/build-and-deploy-spfx-form-customizer/</guid>
       <description>Today Microsoft released the latest version of SPFx (v1.15). This version comes with the feature that I waited most for (and probably many SharePoint developers). This is a possibility to create a &amp;ldquo;native&amp;rdquo; list item custom form.
 Until this day, it was a very hacky process of making a custom webpart and redirecting users to it by using custom actions or list view JSON customizers. Now, this development model is fully supported by SPFx.</description>
     </item>
-    
     <item>
       <title>How to aggregate (SUM, AVG, COUNT etc.) SharePoint list items&#39; data efficient in Power Automate</title>
       <link>https://rithala.github.io/posts/sharepoint-list-items-aggregations-in-power-automate/</link>
       <pubDate>Tue, 21 Jun 2022 14:33:33 +0200</pubDate>
-      
       <guid>https://rithala.github.io/posts/sharepoint-list-items-aggregations-in-power-automate/</guid>
       <description>Let&amp;rsquo;s assume you need to summarize the sales data per salesman and prepare a monthly report that will be sent to the manager.
 How can you do this in Power Automate? The first thing that may come to your mind is to use SharePoint&amp;rsquo;s &amp;ldquo;Get Items&amp;rdquo; action to get all list items for the desired time frame and then calculate the sums yourself in the &amp;ldquo;Apply to each&amp;rdquo; loop. It may work for a small list but it will fail when we get to a larger number of items.</description>
     </item>
-    
     <item>
       <title>Power Automate Chrome Extension</title>
       <link>https://rithala.github.io/posts/power-automate-chrome-extension/</link>
       <pubDate>Wed, 27 Apr 2022 14:33:33 +0200</pubDate>
-      
       <guid>https://rithala.github.io/posts/power-automate-chrome-extension/</guid>
       <description>I bet every PowerAutomate consultant wonders if there is an easy way to replace all SharePoint site URLs or variables names in a flow definition 🤔 I could not find the answer, so I built this small (my first😊) Chrome/Edge extension allowing editing a flow as JSON in a web version of VS Code. Please, share this with your colleagues and feedback is much appreciated 😉
 Link to GitHub
 Link to the Chrome Web Store Link to the Edge Add-ons listing</description>
     </item>
-    
-    
   </channel>
 </rss>
